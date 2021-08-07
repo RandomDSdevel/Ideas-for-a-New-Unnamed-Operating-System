@@ -29,3 +29,4 @@ Note that, as a hypervisor and dynamic service provider, this tier continues to 
  - Dynamic run-time consumption of UEFI services from tier 0.  
  - Automatic discovery of any available peer distributed-computing resources and near–zero-configuration use of them in a seamlessly spawnable, free-form network of their host systems whose members could join or leave it at will (with user consent, of course.)  
  - Neighborly cohabitation with any other guest environments running in 'seats' offered concurrently by tier 0.  
+ - Implementing 'library operating system' components and client applications for single- and multi-seat virtualization and paravirtualization.  
