@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I've currently started thinking about a potential design, my OS would be divided into multiple, tiered levels of functionality.  I'll describe each one in the following sub-sections.  (Note that tier 0's and tier 1's functionality interleave somewhat, however.)  
 
-### Tier 0:  Firmware and Hardware/Platform/System Low-Level Services
+### Tier 0&thinsp;—&thinsp;Firmware and Hardware/Platform/System Low-Level Services
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system architecture would root itself in a [hot-reloadable](https://en.wikipedia.org/wiki/Hot_swapping#Software) and partly [dynamically updatable](https://en.wikipedia.org/wiki/Dynamic_software_updating) virtualizing and [paravirtualizing](https://en.wikipedia.org/wiki/Paravirtualization) UEFI bare-metal (['Type-1'](https://en.wikipedia.org/wiki/Hypervisor#Classification)) hypervisor with the features needed to support:  
 
