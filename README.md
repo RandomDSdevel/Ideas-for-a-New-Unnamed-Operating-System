@@ -4,7 +4,7 @@
 
 ## Possible Design
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I've currently started thinking about a potential design, my OS would be divided into multiple, tiered levels of functionality.  I'll describe each one in the following sub-sections.  (Note that tier 0's and tier 1's functionality interleave somewhat, however.)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I've currently started thinking about a potential design, my OS would be divided into multiple, tiered levels of functionality.  I'll describe each one in the following sub-sections.  (Note that tier 0's and tier 1's functionality interleave somewhat, however.  Also, I might not have all tiers' responsibilities separated properly or cleanly, or in the right order.)  
 
 ### Tier 0&thinsp;—&thinsp;Firmware and Hardware/Platform/System Low-Level Services
 
