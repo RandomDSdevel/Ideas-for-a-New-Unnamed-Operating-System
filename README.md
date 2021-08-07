@@ -18,3 +18,6 @@
    - Hypervisor-enabled OS and software [KVM](https://en.wikipedia.org/wiki/KVM_switch) passthrough.  
    - Other hardware sharing.  
  - Guest environments capable of [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing).  
+ - Run-time provision of UEFI services via either the standard protocols or some layer on top of them to compatible, subscribing client OSes.  
+
+Note that, as a hypervisor and dynamic service provider, this tier continues to run alongside client operating systems, as opposed to shutting down as is conventional, after they boot.  
